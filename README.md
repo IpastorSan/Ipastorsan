@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a Data Scientist and Machine Learning Engineer. Passionate about building useful things!
+I am a Data Scientist and Machine Learning Engineer. Passionate about bringing AI from our Jupyter Notebooks to the real world
 
 <br>
 
