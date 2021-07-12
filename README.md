@@ -1,7 +1,6 @@
 ### Hello World 👋
 I am a Data Scientist and Machine Learning Engineer. Passionate about building useful things!
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
+
 <br>
 
 ## Connect with me
