@@ -17,7 +17,7 @@ Data Scientist and Machine Learning specialist. Passionate about Deep Learning a
 <br>
 ## Expertise
 <img align="left" alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img align="left" alt="julia" src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" />
+<!--<img align="left" alt="julia" src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" />-->
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
 <br>
