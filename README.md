@@ -1,5 +1,5 @@
-### Hello World 👋
-I am a Data Scientist and Machine Learning Engineer. Passionate about bringing AI from our Jupyter Notebooks to the real world
+### Hello there! 👋
+Data Scientist and Machine Learning specialist. Passionate about Deep Learning and discovering the ways of MLOps. If you have a challenge and could use another brain, just reach out!
 
 <br>
 
