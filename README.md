@@ -1,5 +1,5 @@
 ### Hello there! 👋
-Data Scientist and Machine Learning specialist. Passionate about Deep Learning and discovering the ways of MLOps. If you have a challenge and could use another brain, just reach out!
+I am a developer interested in the next frontier of Internet applications. To me, this means Web3, blockchain, Smart Contract development and a bit of Machine Learning. If you have a challenge and could use another brain, just reach out!
 
 <br>
 
@@ -7,19 +7,10 @@ Data Scientist and Machine Learning specialist. Passionate about Deep Learning a
 
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ignaciopastorsanchez/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ignaciopastorsanchez)
 
 <!-- Esto para luego, en un apartado diferente [<img align="left" alt="moveseventyeight" src="https://img.shields.io/badge/Project-moveseventyeight-blue" />](https://moveseventyeight.com/) -->
 
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/13915440/ipastor)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/moveseventy8)
-<br>
-<br>
-## Expertise
-<img align="left" alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<!--<img align="left" alt="julia" src="https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=white&style=for-the-badge" />-->
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
 <br>
 <br>
 
