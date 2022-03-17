@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Ignacio
 ### I am a Freelance Web3 developer especializing in NFTs
 <p align="center">
-<img src="https://github.com/IpastorSan/Ipastorsan/blob/main/%23111827.png" height="400"></p>
+<img src="https://github.com/IpastorSan/Ipastorsan/blob/main/images/%23111827.png" height="400"></p>
 I use Solidity to write smart contracts for any EVM compatible network, React.js to create awesome Front-Ends and ethers.js to connect the Metaverse and the Physical World (I am not sure if we should call it Real...). 
 I also used to be a Data Scientist, so you will see some ML projects around.
 
@@ -27,5 +27,5 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="python" height="40" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" height="40" />
+<img src="https://github.com/IpastorSan/Ipastorsan/blob/main/images/solidity.svg" height="40">
 </p>
