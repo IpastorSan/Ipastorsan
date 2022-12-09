@@ -1,10 +1,4 @@
 ## Hi there 👋, my name is Ignacio
-### I am a Freelance Web3 developer especializing in NFTs
-
-![banner](https://github.com/IpastorSan/Ipastorsan/blob/main/images/%23111827.png)
-
-I use Solidity to write smart contracts for any EVM compatible network, React.js to create awesome Front-Ends and ethers.js to connect the Metaverse and the Physical World (I am not sure if we should call it Real...). 
-I also used to be a Data Scientist, so you will see some ML projects around.
 
 Skills: Solidity / Javascript / Python / React.js / Tensorflow
 
