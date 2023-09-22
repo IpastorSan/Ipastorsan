@@ -13,11 +13,11 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 
 ## 🛠️ Languages and Tools
 
-<img align="left" alt="solidity" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/>
+<img align="left" alt="solidity" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg#gh-light-mode-only"/>
 <img align="left" alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="typescript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="react" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="next-js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="next-js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg#gh-light-mode-only"/>
 <img align="left" alt="node-js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="golang" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
@@ -31,11 +31,12 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 #
 
 ## Stats
-<p align="center">
-[![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipastorsan&show_icons=true&theme=tokio&hide_rank=true)](https://github.com/IpastorSan/github-readme-stats)
-[!Ignacio's Github languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipastorsan&layout=compact&theme=tokyonight)](https://github.com/IpastorSan/github-readme-stats)
-</p>
-
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ipastorsan&show_icons=true&theme=tokyonight&hide_rank=true"></td>
+    <td valign="top"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipastorsan&layout=compact&theme=tokyonight"></td>
+  </tr>
+</table>
 
 ## 📫 Connect with me </h2>
 
