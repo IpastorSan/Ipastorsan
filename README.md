@@ -2,12 +2,26 @@
 
 **`Fullstack Web3 & Blockchain Developer`**
 
-Skills: Solidity / Javascript / Python / React.js / Tensorflow
+👋 **Hey there!** I'm Ignacio, pioneering the Blockend frontier! (Shoutout to [@VittoStack](https://twitter.com/VittoStack) for coining that term).
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning EVM deep dive, how to use DeFi in gaming 
-- 👯 I’m looking to collaborate on NFTs and Web3 videogames 
-- 📫 How to reach me: ignacio@moveseventyeight.com
+### 🛠️ Blockchain Mastery:
+
+**Smart Contracts**: I code with Solidity, using both Hardhat and Foundry.</br>
+**Token Standards**: From ERC721 and ERC1155 to the cutting-edge ERC6551, you can use them way beyond just PFPs – think token-gated communities, blockchain gaming, marketplaces, and more!</br>
+**Upgradability**: I've delved deep into upgradable patterns and proxy contracts. A complex and often controversial topic!
+
+### 💻 Beyond Blockchain:
+
+**Frontend**: Other than the hardcore blockchain work, I enjoy building frontends with Next.js(anyone else a fan of v13?) and making them interact with smart contracts using ethers.js, wagmi and viem </br>
+**Backend**: Sometimes I find myself creating a Merkle Tree for an allowlist, setting up dynamic metadata for NFTs, or architecting subgraphs for a marketplace contract, and that's fun!
+
+### 🚀 Next Projects:
+- Blogging: Diving into technical articles on Solidity, smart contracts, and more.
+- Auditing: Forcing myself to get deeper into the most technical aspects of the EVM, all while working towards a safer industry.
+- Learning Rust: Explore diverse blockchain ecosystems.
+- Hackathons: Or I should rather say... MORE hackathons?
+- Collaborations: Helping friends bring their visionary/absurd projects to life.
+- Chipping away at my Warhammer pile of shame 🤖.
 
 </br>
 
