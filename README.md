@@ -36,7 +36,7 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ipastorsan&show_icons=true&theme=tokyonight&hide_rank=true"></td>
-    <td valign="top"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipastorsan&layout=donut&theme=tokyonight&hide=jupyter%20notebook"></td>
+    <td valign="top"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipastorsan&layout=compact&theme=tokyonight&hide=jupyter%20notebook"></td>
   </tr>
 </table>
 
