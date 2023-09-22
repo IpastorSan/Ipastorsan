@@ -12,6 +12,7 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 ---
 
 ### 🛠️ Languages and Tools
+
 <img align="left" alt="solidity" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/>
 <img align="left" alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="typescript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -31,10 +32,7 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 
 <h2> 📫 Connect with me </h2>
 
-<a href= href="https://github.com/IpastorSan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+[![Gihub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://https://github.com/IpastorSan/)
 [![Email](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:ignacio@fullstackwebthree.com) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciopastorsanchez/) 
 [![X (formerly Twitter)](https://img.shields.io/twitter/url)](https://twitter.com/numbernine_eth)
-
-
-
