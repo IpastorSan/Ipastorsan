@@ -31,8 +31,11 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 #
 
 ## Stats
+<p align="center">
+[![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipastorsan&show_icons=true&theme=tokio&hide_rank=true)](https://github.com/IpastorSan/github-readme-stats)
+[!Ignacio's Github languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipastorsan&layout=compact&theme=tokyonight)](https://github.com/IpastorSan/github-readme-stats)
+</p>
 
-[![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipastorsan&show_icons=true&theme=gruvbox&hide_rank=true)](https://github.com/IpastorSan/github-readme-stats)
 
 ## 📫 Connect with me </h2>
 
