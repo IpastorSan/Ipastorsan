@@ -11,7 +11,7 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <img align="left" alt="solidity" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/>
 <img align="left" alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -28,9 +28,13 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 <img align="left" alt="postgres" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 
----
+#
 
-<h2> 📫 Connect with me </h2>
+## Stats
+
+[![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipastorsan)](https://github.com/IpastorSan/github-readme-stats)
+
+## 📫 Connect with me </h2>
 
 [![Gihub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://https://github.com/IpastorSan/)
 [![Email](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](mailto:ignacio@fullstackwebthree.com) 
