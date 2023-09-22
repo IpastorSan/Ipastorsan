@@ -1,4 +1,4 @@
-# 👨‍💻 Ignacio Pastor
+ # 👨‍💻 Ignacio Pastor
 
 **`Fullstack Web3 & Blockchain Developer`**
 
@@ -40,7 +40,7 @@ Skills: Solidity / Javascript / Python / React.js / Tensorflow
 <div align="center">
   <br>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ipastorsan&rank_icon=github&theme=react&border_radius=10" alt="stats"/>
-  <img width=390 src="https://streak-stats.demolab.com?user=ipastorsan&theme=react" alt="streak-stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=ipastorsan&theme=react&exclude_days=Sat,Sun" alt="streak-stats"/>
   <br/>
   <br></br>
   <img align="center" width=390 src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipastorsan&layout=compact&theme=react&hide=jupyter%20notebook&border_radius=10&size_weight=0.5&count_weight=0.5" alt="language-stats"/>
