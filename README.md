@@ -17,7 +17,7 @@
 
 ### 🚀 Next Projects:
 - Blogging: Diving into technical articles on Solidity, smart contracts, and more.
-- Auditing: Forcing myself to get deeper into the most technical aspects of the EVM, all while working towards a safer industry.
+- Auditing: Getting deeper into the most technical aspects of the EVM, all while working towards a safer industry.
 - Learning Rust: Explore diverse blockchain ecosystems.
 - Hackathons: Or I should rather say... MORE hackathons?
 - Collaborations: Helping friends bring their visionary/absurd projects to life.
