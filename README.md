@@ -28,7 +28,7 @@
  ### 📫 Connect with me </h2>
 
 [![Gihub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://https://github.com/IpastorSan/)
-[![Email](https://img.shields.io/badge/Email-%23FF0000.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ignacio@fullstackwebthree.com)
+[![Email](https://img.shields.io/badge/Email-%23FF0000.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ignacio@moveseventyeight.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciopastorsanchez/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/numbernine_eth)
 
