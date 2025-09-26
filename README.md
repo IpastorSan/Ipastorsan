@@ -12,7 +12,7 @@
 
 ### 💻 Beyond Blockchain:
 
-**Frontend**: Other than the hardcore blockchain work, I enjoy building frontends with Next.js(anyone else a fan of v13?) and making them interact with smart contracts using ethers.js, wagmi and viem </br>
+**Frontend**: Other than the hardcore blockchain work, I enjoy building frontends with Next.js and making them interact with smart contracts using ethers.js, wagmi and viem </br>
 **Backend**: Sometimes I find myself creating a Merkle Tree for an allowlist, setting up dynamic metadata for NFTs, or architecting subgraphs for a marketplace contract, and that's fun!
 
 ### 🚀 Next Projects:
